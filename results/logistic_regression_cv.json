@@ -1,0 +1,56 @@
+{
+  "accuracy_train_mean": 0.9993335570205616,
+  "accuracy_train_std": 0.00016191268962263542,
+  "accuracy_test_mean": 0.9991114195817138,
+  "accuracy_test_std": 0.0009023292647250189,
+  "precision_train_mean": 1.0,
+  "precision_train_std": 0.0,
+  "precision_test_mean": 1.0,
+  "precision_test_std": 0.0,
+  "recall_train_mean": 0.9993263669980452,
+  "recall_train_std": 0.00016368057791592,
+  "recall_test_mean": 0.9991016913158033,
+  "recall_test_std": 0.0009123240543794068,
+  "f1_train_mean": 0.9996630633110384,
+  "f1_train_std": 8.189301229728409e-05,
+  "f1_test_mean": 0.9995504354269379,
+  "f1_test_std": 0.00045665153557201087,
+  "fold_scores": {
+    "accuracy": [
+      1.0,
+      0.9994447529150472,
+      0.9977790116601888,
+      1.0,
+      0.9983333333333333
+    ],
+    "precision": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "recall": [
+      1.0,
+      0.999438832772166,
+      0.9977540707467715,
+      1.0,
+      0.9983155530600786
+    ],
+    "f1": [
+      1.0,
+      0.9997193376368229,
+      0.9988757729061271,
+      1.0,
+      0.9991570665917393
+    ]
+  },
+  "test_accuracy": 0.9991115059973346,
+  "test_precision": 1.0,
+  "test_recall": 0.9991019308486754,
+  "test_f1": 0.9995507637017071,
+  "model_type": "LogisticRegression",
+  "random_state": 42,
+  "class_weight": "balanced",
+  "n_folds": 5
+}
