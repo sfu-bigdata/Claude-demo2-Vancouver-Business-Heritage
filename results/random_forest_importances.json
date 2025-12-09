@@ -1,0 +1,12 @@
+{
+  "model": "RandomForestClassifier",
+  "n_estimators": 100,
+  "feature_importances": {
+    "log_distance": 0.2986261337485765,
+    "distance_km": 0.27813877009479665,
+    "distance_to_nearest_heritage_m": 0.20933275647776725,
+    "latitude": 0.152279442464111,
+    "longitude": 0.061622897214713174,
+    "YearIssued": 3.540487384514911e-14
+  }
+}
